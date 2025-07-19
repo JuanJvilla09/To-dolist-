@@ -1,6 +1,7 @@
 # To-dolist-
 
 📝 To-Do List App
+
 Una aplicación web elegante y funcional para gestionar tareas diarias, construida con HTML, CSS y JavaScript vanilla. Diseñada con una interfaz limpia y moderna que incluye todas las funcionalidades esenciales para una productiva gestión de tareas.
 
 ✨ Características Principales
@@ -12,6 +13,7 @@ Eliminación Intuitiva: Borra tareas no deseadas con un simple clic
 Persistencia Local: Guarda automáticamente tus tareas en el navegador
 
 DEMO 📹
+
 <img width="1283" height="664" alt="image" src="https://github.com/user-attachments/assets/82dba0e0-c8a3-408c-af0e-3b86ec1904a6" />
 
 🛠️ Tecnologías Utilizadas
@@ -22,14 +24,18 @@ JavaScript ES6: Lógica de la aplicación y manipulación del DOM
 
 todo-list-app/
 │
-├── index.html          # Estructura principal de la aplicación
-├── style.css           # Estilos y diseño responsive
-├── script.js           # Lógica de la aplicación
-├── images/             # Recursos visuales
+
+├── index.html                
+├── style.css           
+├── script.js           
+├── images/             
 │   ├── unchecked-10.png
+
 │   ├── checked-orange.png
+
 │   └── business-to-do-list-flat-icon-modern-style-vector.jpg
-└── README.md           # Documentación del proyecto
+
+└── README.md           
 
 🎯 Funcionalidades Detalladas
 ➕ Agregar Tareas
